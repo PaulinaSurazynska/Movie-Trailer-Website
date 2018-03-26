@@ -75,7 +75,7 @@ capitan_america3 = media.Movie(
                                "https://www.youtube.com/watch?v=1L3c17AmCZw"
                                )
 
-"""list of movies that will be a input for open_movies_page()"""
+"""list of movies that will be an input for open_movies_page()"""
 movies = [
         iron_man1,
         iron_man2,
